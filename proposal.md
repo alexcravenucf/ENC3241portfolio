@@ -7,17 +7,21 @@ title: Proposal
 
 AgAI
 
-Name: Alexander Craven				Department: Computer Science
+Name: Alexander Craven			                   	Department: Computer Science
 
 Background 
 Florida’s agriculture sector, particularly the citrus industry, faces troubling problems with diseases such as Citrus Greening (HLB) and various fungal pathogens. The problem is so severe that it has resulted in 90% losses in citrus production (USDA, 2025). Standard diagnostic methods to find and resolve this disease require manual inspections by experts; a process that is expensive, time-consuming, and typically only detects the disease after it’s spread. Basically, putting the efforts in vain. However, recent progress in Convolutional Neural Networks (CNNs) has shown success in plant pathology; downsides include the cost of pricey hardware and the need for a fast internet connection (Pal, 2025). With this being so expensive, it makes obtaining this critical piece of technology significantly more difficult for small-scale farms. This project focuses on what I’m calling AgAI, where the goal is to create low-optimized models on low-cost, solar-powered hardware to deliver real-time alerts of potential diseases for a fraction of the cost. 
 
 Methodology 
+
 Data acquisition:
+
 My plan is to create a dataset of over 1,000+ images focusing on common Florida diseases and fungal pathogens. The majority of the data will be sourced from the UCF Arboretum and local farms in the surrounding area. I also intend to use the open-source PlantVillage dataset, which has numerous images of infected plants. Next, I’ll implement data agumentation by rotating, scaling, and changing the brightness on the photos to ensure the model can handle different scenarios with different lighting in real environments.
 Model optimizaton:
+
 I’ll start by implementing a Convolutional Neural Network (CNNs) using the Tensorflow Framework. Due to the limited processing power of the Raspberry Pi 5, I plan to utilize transfer learning with a lightweight architecture model, specifically MobileNetV2 (Sandler, 2018). Once the model has been trained to the point that it reaches the 90% accuracy consistently, I will apply Post-Training Quantization, converting it into a TensorFlow Lite format. This will reduce the size of the model and inference latency, allowing for the processing of images without the need of a GPU or internet. 
 Device Deployment and Testing:
+
 Once the model is optimized I’ll deploy it onto a Raspberry Pi 5 equipped with a high-resolution camera. This device will be housed in an IP67-rated enclosure. Testing will take place just over 4 weeks at the UCF Arboretum and local gardens, where I’ll be measuring the time it takes to notice a disease and identify it, how the device handles the Florida environment, and how fast it sends alerts. I intend to trial this device in 9 local gardens and will come prepared with gift cards as incentives for volunteering their garden.
 
 Anticipated Outcomes 
