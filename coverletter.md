@@ -5,4 +5,5 @@ title: Cover Letter
 
 # Cover Letter
 
-[Paste your cover letter here]
+[CoverLetterDraft.pdf](https://github.com/user-attachments/files/26946580/CoverLetterDraft.pdf)
+
