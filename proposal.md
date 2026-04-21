@@ -6,6 +6,7 @@ title: Proposal
 # Proposal
 
 AgAI
+
 Name: Alexander Craven				Department: Computer Science
 
 Background 
