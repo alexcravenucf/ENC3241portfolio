@@ -3,5 +3,5 @@ layout: default
 title: Resume
 ---
 
-# Resume
+[Alexander_Craven_Resume.pdf](https://github.com/user-attachments/files/26946716/Alexander_Craven_Resume.pdf)
 
