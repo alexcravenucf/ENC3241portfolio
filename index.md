@@ -5,7 +5,7 @@ title: Home
 
 # Alexander Craven
 
-Alexander Craven is a future computer scientist currently at the University of Central Florida with an interest in leveraging AI to solve problems within the medical field. He is proficient in the programming languages Python and C through his coursework at UCF. Alexander’s portfolio demonstrates his expertise in computer science and LLMs.
+About me:  i'm a future computer scientist currently at the University of Central Florida with an interest in leveraging AI to solve problems within the medical field. i'm is proficient in the programming languages Python and C through my coursework at UCF. my portfolio demonstrates his expertise in computer science and LLMs.
 
 ## Professional Writing Samples/Projects
 
