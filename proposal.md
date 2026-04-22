@@ -5,4 +5,5 @@ title: Proposal
 
 # Proposal
 
-[AlexCraven-ProposalDraft2.pdf](https://github.com/user-attachments/files/26946693/AlexCraven-ProposalDraft2.pdf)
+<img width="1700" height="2200" alt="AlexCraven-ProposalDraft2-1" src="https://github.com/user-attachments/assets/6eccd852-7aa5-45d7-baca-892bddbb28ce" />
+
