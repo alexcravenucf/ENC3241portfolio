@@ -5,5 +5,8 @@ title: Instructions
 
 # Instructions
 
-[How to take a penalty in soccer revised.pdf](https://github.com/user-attachments/files/26946911/How.to.take.a.penalty.in.soccer.revised.pdf)
+<img width="1700" height="2200" alt="How to take a penalty in soccer revised-1" src="https://github.com/user-attachments/assets/6d06250d-6a07-470e-b661-1a35a1421474" />
+
+<img width="1700" height="2200" alt="How to take a penalty in soccer revised-2" src="https://github.com/user-attachments/assets/5028a78f-b6c1-4285-bd26-d0bc0ad55405" />
+
 
